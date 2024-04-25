@@ -1,0 +1,1 @@
+/Users/nirajpaudel/Documents/personal/Zlatu/RustExample/2.\ minigrep/target/debug/minigrep: /Users/nirajpaudel/Documents/personal/Zlatu/RustExample/2.\ minigrep/src/lib.rs /Users/nirajpaudel/Documents/personal/Zlatu/RustExample/2.\ minigrep/src/main.rs
