@@ -4,7 +4,8 @@ Welcome to my Rust exercises repository! Here, you'll find various Rust programm
 
 ## Problem Statement
 
-Question 1: Using a hash map and vectors, create a text interface to allow a user to add employee names to a department in a company. For example, “Add Sally to Engineering” or “Add Amir to Sales.” Then let the user retrieve a list of all people in a department or all people in the company by department, sorted alphabetically.
+**Question 1:** 
+Using a hash map and vectors, create a text interface to allow a user to add employee names to a department in a company. For example, “Add Sally to Engineering” or “Add Amir to Sales.” Then let the user retrieve a list of all people in a department or all people in the company by department, sorted alphabetically.
 
 Question 2: Create a command line tool named grep "globally search a regular expression and print" and use the concepts of Rust like strings, lifetimes, borrow, ownership, vectors and external library to complete it.
 
