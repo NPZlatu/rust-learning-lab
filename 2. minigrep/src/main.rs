@@ -1,3 +1,4 @@
+
 /**
  * Generating a command line tool named grep "globally search a regular expression and print"
  */
@@ -8,9 +9,7 @@ use std::process;
 use minigrep::Config;
 
 fn main() {
-    let args: Vec<String> = env::args().collect();
-
-    match Config::new(&args) {
+    match Config::new(env::args()) {
         Ok(config) => {
             if let Err(e) = minigrep::run(config) {
                 eprintln!("Application error: {}", e);
