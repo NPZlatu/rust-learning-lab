@@ -16,6 +16,13 @@ The program that efficiently calculates the nth Fibonacci number using both a si
 **Problem 4:**
 Given a set of stairs and a frog positioned at the bottom step (0th), the frog aims to ascend to the top step (\((N-1)\)th) of the staircase. The frog can climb either one or two steps at a time. Additionally, a height array of length \(N\) is provided, denoting the height of each step. How many distinct ways can the frog ascend from one step to another, considering the height array?
 
+**Problem 5:**
+You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
+
+Merge nums1 and nums2 into a single array sorted in non-decreasing order.
+
+The final sorted array should not be returned by the function, but instead be stored inside the array nums1. To accommodate this, nums1 has a length of m + n, where the first m elements denote the elements that should be merged, and the last n elements are set to 0 and should be ignored. nums2 has a length of n.
+
 ## Getting Started
 
 To get started with these exercises, clone this repository to your local machine and explore the source code. Each exercise is contained within its own directory and may include additional instructions or README files.
