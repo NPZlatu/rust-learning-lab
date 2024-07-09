@@ -1,0 +1,1 @@
+/Users/nirajpaudel/Documents/personal/Zlatu/RustExample/7.parenthesis_validity/target/debug/parenthesis_validity: /Users/nirajpaudel/Documents/personal/Zlatu/RustExample/7.parenthesis_validity/src/main.rs
