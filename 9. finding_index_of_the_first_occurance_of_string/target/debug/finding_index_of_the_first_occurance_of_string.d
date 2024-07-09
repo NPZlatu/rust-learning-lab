@@ -1,0 +1,1 @@
+/Users/nirajpaudel/Documents/personal/Zlatu/RustExample/9.\ finding_index_of_the_first_occurance_of_string/target/debug/finding_index_of_the_first_occurance_of_string: /Users/nirajpaudel/Documents/personal/Zlatu/RustExample/9.\ finding_index_of_the_first_occurance_of_string/src/main.rs
