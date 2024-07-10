@@ -1,0 +1,1 @@
+/Users/nirajpaudel/Documents/personal/Zlatu/RustExample/12.\ is_isomorphic_string/target/debug/is_isomorphic_string: /Users/nirajpaudel/Documents/personal/Zlatu/RustExample/12.\ is_isomorphic_string/src/main.rs
