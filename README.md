@@ -4,33 +4,39 @@ Welcome to my Rust exercises repository! Here, you'll find various Rust programm
 
 ## Problem Statement
 
-**Problem 1:**
+## Problem 1:
+
 Using a hash map and vectors, create a text interface to allow a user to add employee names to a department in a company. For example, “Add Sally to Engineering” or “Add Amir to Sales.” Then let the user retrieve a list of all people in a department or all people in the company by department, sorted alphabetically.
 
-**Problem 2:**
+### Problem 2:
+
 Create a command line tool named grep "globally search a regular expression and print" and use the concepts of Rust like strings, lifetimes, borrow, ownership, vectors and external library to complete it.
 
-**Problem 3:**
+## Problem 3:
+
 The program that efficiently calculates the nth Fibonacci number using both a simple recursive approach and dynamic programming with memoization, showcasing the performance contrast between the two methods for any given input n.
 
-**Problem 4:**
+## Problem 4:
+
 Given a set of stairs and a frog positioned at the bottom step (0th), the frog aims to ascend to the top step (\((N-1)\)th) of the staircase. The frog can climb either one or two steps at a time. Additionally, a height array of length \(N\) is provided, denoting the height of each step. How many distinct ways can the frog ascend from one step to another, considering the height array?
 
-**Problem 5:**
+## Problem 5:
+
 You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
 
 Merge nums1 and nums2 into a single array sorted in non-decreasing order.
 
 The final sorted array should not be returned by the function, but instead be stored inside the array nums1. To accommodate this, nums1 has a length of m + n, where the first m elements denote the elements that should be merged, and the last n elements are set to 0 and should be ignored. nums2 has a length of n.
 
-**Problem 6:**
+## Problem 6:
+
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
 You can return the answer in any order.
 
-**Problem 7:**
+## Problem 7:
 
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
@@ -40,7 +46,8 @@ Open brackets must be closed by the same type of brackets.
 Open brackets must be closed in the correct order.
 Every close bracket has a corresponding open bracket of the same type.
 
-**Problem 8:**
+## Problem 8:
+
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
 Symbol Value
@@ -60,7 +67,8 @@ X can be placed before L (50) and C (100) to make 40 and 90.
 C can be placed before D (500) and M (1000) to make 400 and 900.
 Given a roman numeral, convert it to an integer.
 
-**Problem 9:**
+## Problem 9:
+
 Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
 Example 1:
@@ -76,7 +84,7 @@ Input: haystack = "leetcode", needle = "leeto"
 Output: -1
 Explanation: "leeto" did not occur in "leetcode", so we return -1.
 
-**Problem 10:**
+## Problem 10:
 
 Given a string s consisting of words and spaces, return the length of the last word in the string.
 
@@ -98,7 +106,7 @@ Input: s = "luffy is still joyboy"
 Output: 6
 Explanation: The last word is "joyboy" with length 6.
 
-**Problem 11:**
+## Problem 11:
 
 Write an algorithm to determine if a number n is happy.
 
@@ -123,7 +131,7 @@ Example 2:
 Input: n = 2
 Output: false
 
-**Problem 12:**
+## Problem 12:
 
 Given two strings s and t, determine if they are isomorphic.
 
