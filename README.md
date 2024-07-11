@@ -151,6 +151,10 @@ Example 3:
 Input: s = "paper", t = "title"
 Output: true
 
+### Problem 13:
+
+Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
+
 ## Getting Started
 
 To get started with these exercises, clone this repository to your local machine and explore the source code. Each exercise is contained within its own directory and may include additional instructions or README files.
