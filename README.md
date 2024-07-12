@@ -155,6 +155,18 @@ Output: true
 
 Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 
+### Problem 14:
+
+Given an integer n, return an array ans of length n + 1 such that for each i (0 <= i <= n), ans[i] is the number of 1's in the binary representation of i.
+
+Example 1:
+Input: n = 2
+Output: [0,1,1]
+Explanation:
+0 --> 0
+1 --> 1
+2 --> 10
+
 ## Getting Started
 
 To get started with these exercises, clone this repository to your local machine and explore the source code. Each exercise is contained within its own directory and may include additional instructions or README files.
